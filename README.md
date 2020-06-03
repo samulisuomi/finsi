@@ -68,7 +68,7 @@ The layout is still called `Finnish - US Influenced` in the downloadable layout 
 
 ## Comparison of alternatives
 
-At the time of creating this layout I had come across both EurKEY and Swerty but didn't like either of them. Be sure to check them out too if something grinds your gears about Ansifin:
+At the time of creating this layout (somewhere around 2017) I had come across both EurKEY and Swerty but didn't like either of them. Anyway, be sure to check these alternatives out too if something grinds your gears about Ansifin. I'll briefly compare them to Ansifin:
 
 * [EurKEY](https://eurkey.steffen.bruentjen.eu/)
   * Pros: Native ANSI layout which is great for software development.

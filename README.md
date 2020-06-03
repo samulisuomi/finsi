@@ -65,8 +65,16 @@ The layout is still called `Finnish - US Influenced` in the downloadable layout 
 * You completely lose access to `¨` compared to the original Finnish layouts (I'm sorrü).
 * You will be able to enter some of the characters from multiple different keys (e.g. on Windows you can enter `\` both from the standard **[**`+`**]** key and from the new modified **[**`7`**]** key).
 
-## Alternatives
+## Comparison of alternatives
+
+At the time of creating this layout I had come across both EurKEY and Swerty but didn't like either of them. Be sure to check them out too if something grinds your gears about Ansifin:
 
 * [EurKEY](https://eurkey.steffen.bruentjen.eu/)
+  * Pros: Native ANSI layout which is great for software development.
+  * Cons: You need to access `ä` and `ö` with Alt(Gr). Need to completely retrain your muscle memory for special characters.
 * [Finner](https://github.com/ruohola/finner)
+  * Pros: Very few changes compared to the Finnish layout, `[`, `]`, `{` and `}` are in the same keys as on ANSI.
+  * Cons: Doesn't work on a physical ANSI layout as it requires all the ISO keys to keep backtick, `<` and `>` all functional.
 * [Swerty](http://johanegustafsson.net/projects/swerty/)
+  * Pros: Great for people who write a lot of Swedish since `å` is kept directly accessible.
+  * Cons: Need to hit Alt(Gr) to access `[`, `]`, `{` and `}`. 

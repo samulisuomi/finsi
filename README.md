@@ -26,7 +26,7 @@ If you don't care about the last point, you should also consider the [Finner](ht
 
 ## Details
 
-The layout basically has the opposite philosophy compared to the [Swerty](http://johanegustafsson.net/projects/swerty/) layout.
+In many ways, the layout basically has the opposite philosophy compared to layouts like [Swerty](http://johanegustafsson.net/projects/swerty/) and [EurKEY](https://eurkey.steffen.bruentjen.eu/).
 
 It's based on the standard Finnish keyboard layouts for Windows and macOS and does a few pragmatic changes to their four keys. These changes make room for the square and curly bracket characters to sit where they would sit on ANSI (on the **[**`å Å`**]** and **[**`¨ ^ ~`**]** buttons). Then the rest of the characters are shoved under shift and Alt(Gr) to keep them accessible. Finally, the positions of `<`, `>`, `/`, `|` and `\` are modified slightly to make them appear in the same place no matter what OS or the physical layout (ANSI or ISO) you are using.
 

@@ -74,7 +74,7 @@ At the time of creating this layout (somewhere around 2017) I had come across bo
   * Pros: Native ANSI layout which is great for software development.
   * Cons: You need to access `ä` and `ö` with Alt(Gr). Need to completely retrain your muscle memory for special characters.
 * [Finner](https://github.com/ruohola/finner)
-  * Pros: Very few changes compared to the Finnish layout, `[`, `]`, `{` and `}` are in the same keys as on ANSI.
+  * Pros: Very few changes compared to the Finnish layout. `[`, `]`, `{` and `}` are in the same keys as on ANSI.
   * Cons: Doesn't work on a physical ANSI layout as it requires all the ISO keys to keep backtick, `<` and `>` all functional.
 * [Swerty](http://johanegustafsson.net/projects/swerty/)
   * Pros: Great for people who write a lot of Swedish since `å` is kept directly accessible.

@@ -1,6 +1,6 @@
-# Ansifin
+# Finsi
 
-This is a keyboard layout mainly aimed at people who are used to the [Finnish ISO layout](https://en.wikipedia.org/wiki/QWERTY#Finnish_multilingual) but want a layout that's better suited for software development, don't want to throw out years worth of muscle memory and want a more consistent typing experience between Windows and macOS on both common physical keyboard layouts, [ANSI and ISO](https://en.wikipedia.org/wiki/Keyboard_layout#/media/File:Physical_keyboard_layouts_comparison_ANSI_ISO_KS_ABNT_JIS.png).
+This is a keyboard layout mainly aimed at people who are used to the [Finnish ISO layout](https://en.wikipedia.org/wiki/QWERTY#Finnish_multilingual) but want a layout that's a bit better suited for software development, don't want to throw out years worth of muscle memory and want a more consistent typing experience between Windows and macOS on both common physical keyboard layouts, [ANSI and ISO](https://en.wikipedia.org/wiki/Keyboard_layout#/media/File:Physical_keyboard_layouts_comparison_ANSI_ISO_KS_ABNT_JIS.png).
 
 <p align="center">(TODO: picture of the layout)</p>
 
@@ -12,11 +12,11 @@ The main features are:
 * All the keys are in the same places on both ANSI and ISO physical layouts.
   * Note that the location of the **[**`* '`**]** key is always going to be slightly different because, you know, geometry (due to the shape of the enter key). You just need to live with this if you need to switch between ANSI and ISO.
   
-Check the ["Comparison of alternatives" section](https://github.com/samulisuomi/ansifin#comparison-of-alternatives) for motivation behind this feature set.
+Check the ["Comparison of alternatives" section](https://github.com/samulisuomi/finsi#comparison-of-alternatives) for motivation behind this feature set.
 
 ## Installation
 
-1. Download https://github.com/samulisuomi/ansifin/archive/master.zip
+1. Download https://github.com/samulisuomi/finsi/archive/master.zip
 1. Unzip.
 2. Install the layout for your OS:
    * macOS: Unzip `macOS\Finnish - US Influenced.bundle.zip` and then see e.g. [these instructions](https://weibeld.net/mac/custom-keyboard-layout.html) on how to install the `.keylayout` file found under `Contents/Resources`.
@@ -68,7 +68,7 @@ The layout is still called `Finnish - US Influenced` in the downloadable layout 
 
 ## Comparison of alternatives
 
-At the time of creating this layout (somewhere around 2017) I had come across both EurKEY and Swerty but didn't like either of them. Anyway, be sure to check these alternatives out too if something grinds your gears about Ansifin:
+At the time of creating this layout (somewhere around 2017) I had come across both EurKEY and Swerty but didn't like either of them. Anyway, be sure to check these alternatives out too if something grinds your gears about Finsi:
 
 * [EurKEY](https://eurkey.steffen.bruentjen.eu/)
   * Pros: Native ANSI layout which is great for software development.

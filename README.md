@@ -2,9 +2,14 @@
 
 This is a keyboard layout mainly aimed at people who are used to the [Finnish ISO layout](https://en.wikipedia.org/wiki/QWERTY#Finnish_multilingual) but want a layout that's a bit better suited for software development, don't want to throw out years worth of muscle memory and want a more consistent typing experience between Windows and macOS on both common physical keyboard layouts, [ANSI and ISO](https://en.wikipedia.org/wiki/Keyboard_layout#/media/File:Physical_keyboard_layouts_comparison_ANSI_ISO_KS_ABNT_JIS.png).
 
-<p align="center">(TODO: picture of the layout)</p>
+## Layout
 
-The main features are:
+Here's what the layout looks like when used on an ANSI keyboard. Nothing stops you from using it on an ISO keyboard too, of course. Changes to the standard Finnish layout are highlighted:
+
+<p align="center" title="A picture of the layout, kudos to keyboard-layout-editor.com/"><img src="finsi.png"></p>
+
+Features:
+
 * Access `[`, `]`, `{` and `}` from the same ergonomic spot as on the US and UK layouts.
 * Access `<`, `>`, `/`, `|` and `\` consistently from the same keys no matter the OS or the physical layout you happen to be on.
 * Access `ä`, `Ä`, `ö` and `Ö` from the same physical keys as the standard Finnish layout. `å`/`Å` is moved under Alt(Gr) because `[` and `{` are more important to most Finnish-speaking developers.
@@ -22,32 +27,6 @@ Check the ["Comparison of alternatives" section](https://github.com/samulisuomi/
    * macOS: Unzip `macOS\Finnish - US Influenced.bundle.zip` and then see e.g. [these instructions](https://weibeld.net/mac/custom-keyboard-layout.html) on how to install the `.keylayout` file found under `Contents/Resources`.
    * Windows: Run the installer from `Windows\finnishu\setup.exe`.
    * Linux: Sorry, no Linux version available as of now. :(
-
-## Details
-
-The layout is based on the standard Finnish keyboard layouts for Windows and macOS and does a few pragmatic changes to their four keys. These changes make room for the square and curly bracket characters to sit where they would sit on ANSI (on the **[**`å Å`**]** and **[**`¨ ^ ~`**]** buttons). Then the rest of the characters are shoved under shift and Alt(Gr) to keep them accessible. Finally, the positions of `<`, `>`, `/`, `|` and `\` are modified slightly to make them appear in the same place no matter what OS or the physical layout (ANSI or ISO) you are using.
-
-Here's a list of the exact changes from the Finnish layout by each key. The standard PC naming is used but the Mac differences are highlighted on the individual character level:
-- **[**`å Å`**]**:
-  * normal press: `å` → `[`
-  * shift + key: `Å` → `{`
-  * Alt(Gr) + key: N/A → `å`
-  * Alt(Gr) + shift + key: N/A → `Å`
-- **[**`¨ ^ ~`**]**:
-  * normal press: `¨` → `]`
-  * shift + key: `^` → `}`
-  * Alt(Gr) + key: `~` (not changed)
-  * Alt(Gr) + shift + key: N/A → `^`
-- **[**`§ ½`**]**:
-  * normal press: `§` → `<`
-  * shift + key: `½` (`°` on Macs) → `>`
-  * Alt(Gr) + key: N/A → `§`
-  * Alt(Gr) + shift + key: N/A → `½` (`°` on Macs)
-- **[**`7 / {`**]**:
-  * normal press: `7` (not changed)
-  * shift + key: `/` (not changed)
-  * Alt(Gr) + key: `{` (`todo` on Macs) → `|`
-  * Alt(Gr) + shift + key: N/A (`todo` on Macs) → `\`
 
 The layout files were created in [Ukelele](http://software.sil.org/ukelele/) and [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339).
 

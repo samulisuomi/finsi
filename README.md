@@ -12,7 +12,8 @@ Features:
 
 * Access `[`, `]`, `{` and `}` from the same ergonomic spot as on the US and UK layouts.
 * Access `<`, `>`, `/`, `|` and `\` consistently from the same keys no matter the OS or the physical layout you happen to be on.
-* Access `ä`, `Ä`, `ö` and `Ö` from the same physical keys as the standard Finnish layout. `å`/`Å` is moved under Alt(Gr) because `[` and `{` are more important to most Finnish-speaking developers.
+* Access `ä`, `Ä`, `ö` and `Ö` from the same physical keys as the standard Finnish layout.
+* `å`/`Å` is moved under Alt(Gr) because `[` and `{` are more important to most Finnish-speaking developers.
 * Access the other characters the same way as on the standard Finnish layout on each OS.
 * All the keys are in the same places on both ANSI and ISO physical layouts.
   * Note that the location of the **[**`* '`**]** key is always going to be slightly different because, you know, geometry (due to the shape of the enter key). You just need to live with this if you need to switch between ANSI and ISO.

@@ -4,7 +4,7 @@ This is a keyboard layout mainly aimed at people who are used to the [Finnish IS
 
 ## Layout
 
-Here's what the layout looks like when used on an ANSI keyboard. Nothing stops you from using it on an ISO keyboard too, of course. Changes to the standard Finnish layout are highlighted:
+Here's what the layout looks like (when used on an ANSI keyboard). Changes to the standard Finnish layout are highlighted:
 
 <p align="center" title="A picture of the layout, kudos to keyboard-layout-editor.com/"><img src="finsi.png"></p>
 

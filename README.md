@@ -29,7 +29,7 @@ Check the ["Comparison of alternatives" section](https://github.com/samulisuomi/
    * Windows: Run the installer from `Windows\finnishu\setup.exe`.
    * Linux: Sorry, no Linux version available as of now. :(
 
-The layout files were created in [Ukelele](http://software.sil.org/ukelele/) and [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339).
+The layout files were created in [Ukelele](http://software.sil.org/ukelele/) and [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
 
 ## Dead keys
 

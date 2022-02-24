@@ -48,7 +48,7 @@ The layout is still called `Finnish - US Influenced` in the downloadable layout 
 
 ## Comparison of alternatives
 
-At the time of creating this layout (somewhere around 2017) I had come across both EurKEY and Swerty but didn't like either of them. Anyway, be sure to check these alternatives out too if something grinds your gears about Finsi:
+At the time of creating this layout (somewhere around 2017) I had come across both EurKEY and Swerty but didn't like either of them. Anyway, be sure to check out these alternatives if something grinds your gears about Finsi:
 
 * [EurKEY](https://eurkey.steffen.bruentjen.eu/)
   * Pros: Native ANSI layout which is great for software development.

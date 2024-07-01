@@ -13,10 +13,10 @@ Features:
 * Access `[`, `]`, `{` and `}` from the same ergonomic spot as on the US and UK layouts.
 * Access `<`, `>`, `/`, `|` and `\` consistently from the same keys no matter the OS or the physical layout you happen to be on.
 * Access `ä`, `Ä`, `ö` and `Ö` from the same physical keys as the standard Finnish layout.
-* `å`/`Å` is moved under Alt(Gr) because `[` and `{` are more important to most Finnish-speaking developers.
+* `å`/`Å` is moved under <kbd>Alt(Gr)</kbd> because `[` and `{` are more important to most Finnish-speaking developers.
 * Access the other characters the same way as on the standard Finnish layout on each OS.
 * All the keys are in the same places on both ANSI and ISO physical layouts.
-  * Note that the location of the **[**`* '`**]** key is always going to be slightly different because, you know, geometry (due to the shape of the enter key). You just need to live with this if you need to switch between ANSI and ISO.
+  * Note that the location of the <kbd>* '</kbd> key is always going to be slightly different because, you know, geometry (due to the shape of the enter key). You just need to live with this if you need to switch between ANSI and ISO.
   
 Check the ["Comparison of alternatives" section](https://github.com/samulisuomi/finsi#comparison-of-alternatives) for motivation behind this feature set.
 
@@ -33,7 +33,7 @@ The layout files were created in [Ukelele](http://software.sil.org/ukelele/) and
 
 ## Dead keys
 
-The characters with [dead key](https://en.wikipedia.org/wiki/Dead_key) behavior in the original Finnish layout behave the same way in this layout. For instance, hitting Alt(Gr) + **[**`¨ ^ ~`**]** doesn't print `~` before you also hit the space bar. However, both `]` and `}` (accessible via the same key) appear instantly (like on US ANSI).
+The characters with [dead key](https://en.wikipedia.org/wiki/Dead_key) behavior in the original Finnish layout behave the same way in this layout. For instance, hitting <kbd>Alt(Gr)</kbd> + <kbd>¨ ^ ~</kbd> doesn't print `~` before you also hit the space bar. However, both `]` and `}` (accessible via the same key) appear instantly (like on US ANSI).
 
 A "no dead keys" variant may come in the future.
 
@@ -44,7 +44,7 @@ The layout is still called `Finnish - US Influenced` in the downloadable layout 
 ## Limitations and caveats
 
 * You completely lose access to `¨` compared to the original Finnish layouts (I'm sorrü).
-* You will be able to enter some of the characters from multiple different keys (e.g. on Windows you can enter `\` both from the standard **[**`+`**]** key and from the new modified **[**`7`**]** key).
+* You will be able to enter some of the characters from multiple different keys (e.g. on Windows you can enter `\` both from the standard <kbd>+</kbd> key and from the new modified <kbd>7</kbd> key).
 
 ## Comparison of alternatives
 
@@ -52,10 +52,10 @@ At the time of creating this layout (somewhere around 2017) I had come across bo
 
 * [EurKEY](https://eurkey.steffen.bruentjen.eu/)
   * Pros: Native ANSI layout which is great for software development.
-  * Cons: You need to access `ä` and `ö` with Alt(Gr). Need to completely retrain your muscle memory for special characters.
+  * Cons: You need to access `ä` and `ö` with <kbd>Alt(Gr)</kbd>. Need to completely retrain your muscle memory for special characters.
 * [Finner](https://github.com/ruohola/finner)
   * Pros: Very few changes compared to the Finnish layout. `[`, `]`, `{` and `}` are in the same keys as on ANSI.
   * Cons: Doesn't work on a physical ANSI layout as it requires all the ISO keys to keep backtick, `<` and `>` all functional.
 * [Swerty](http://johanegustafsson.net/projects/swerty/)
   * Pros: Great for people who write a lot of Swedish since `å` is kept directly accessible.
-  * Cons: Need to hit Alt(Gr) to access `[`, `]`, `{` and `}`. 
+  * Cons: Need to hit <kbd>Alt(Gr)</kbd> to access `[`, `]`, `{` and `}`. 

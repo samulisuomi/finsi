@@ -22,7 +22,7 @@ Check the ["Comparison of alternatives" section](https://github.com/samulisuomi/
 
 ## Installation
 
-1. Download https://github.com/samulisuomi/finsi/archive/master.zip
+1. Download <https://github.com/samulisuomi/finsi/archive/master.zip>
 1. Unzip.
 2. Install the layout for your OS:
    * macOS: Unzip `macOS\Finnish - US Influenced.bundle.zip` and then see e.g. [these instructions](https://weibeld.net/mac/custom-keyboard-layout.html) on how to install the `.keylayout` file found under `Contents/Resources`.
@@ -58,4 +58,4 @@ At the time of creating this layout (somewhere around 2017) I had come across bo
   * Cons: Doesn't work on a physical ANSI layout as it requires all the ISO keys to keep backtick, `<` and `>` all functional.
 * [Swerty](http://johanegustafsson.net/projects/swerty/)
   * Pros: Great for people who write a lot of Swedish since `å` is kept directly accessible.
-  * Cons: Need to hit <kbd>Alt(Gr)</kbd> to access `[`, `]`, `{` and `}`. 
+  * Cons: Need to hit <kbd>Alt(Gr)</kbd> to access `[`, `]`, `{` and `}`.

@@ -39,7 +39,7 @@ A "no dead keys" variant may come in the future.
 
 ## Naming
 
-The layout is still called `Finnish - US Influenced` in the downloadable layout files as I haven't had time to regenerate them with the new name. Sry.
+The layout is still called `Finnish - US Influenced` in the downloadable layout files as I haven't had time to regenerate them with the new name.
 
 ## Limitations and caveats
 
